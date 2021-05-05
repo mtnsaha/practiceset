@@ -1,0 +1,7 @@
+
+U
+java:S1854":Remove this useless assignment to local variable "array2".(“ÃÚŸýÿÿÿÿ
+C	java:S108")Either remove or fill this block of code.(Ýš¨ßýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÛè¤
+F
+java:S1481"+Remove this unused "array2" local variable.(“ÃÚŸýÿÿÿÿ
